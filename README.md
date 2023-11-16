@@ -49,6 +49,12 @@ This repository contains a C program that simulates a basic bank account system 
 - `README.md`: Documentation file (you're currently reading this).
 - `accounts.txt`: File to store account information (account IDs, names, balances, etc.).
 
+## Acknowledgements
+
+We would like to extend our gratitude to the following individuals/projects for their contributions, inspiration, or support:
+
+- Bank account system in C using File handling ([link-to-profile-or-project](https://www.geeksforgeeks.org/bank-account-system-in-c-using-file-handling/)): I got inspired from this code
+
 ## Contribution
 
 Contributions to enhance the functionality, optimize code, fix bugs, or improve documentation are welcome! Fork the repository, make changes, and create a pull request.
